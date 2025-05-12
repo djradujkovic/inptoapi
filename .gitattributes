@@ -1,0 +1,6 @@
+# Disable EOL normalization for ClickOnce
+* text=auto
+*.manifest binary
+*.application binary
+*.dll binary
+*.exe binarys
